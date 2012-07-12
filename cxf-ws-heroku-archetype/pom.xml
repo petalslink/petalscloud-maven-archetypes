@@ -39,4 +39,10 @@
     </pluginManagement>
   </build>
 
+ <scm>
+	<connection>scm:git:git@github.com:petalslink/petalscloud-maven-archetypes.git</connection>
+	<developerConnection>scm:git:git@github.com:petalslink/petalscloud-maven-archetypes.git</developerConnection>
+	<url>https://github.com/petalslink/petalscloud-maven-archetypes</url>
+ </scm>
+
 </project>
