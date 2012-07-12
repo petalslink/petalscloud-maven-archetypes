@@ -10,7 +10,7 @@
 
   <groupId>org.ow2.petals.cloud</groupId>
   <artifactId>cxf-ws-heroku-archetype</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
   <name>cxf-ws-heroku-archetype</name>
